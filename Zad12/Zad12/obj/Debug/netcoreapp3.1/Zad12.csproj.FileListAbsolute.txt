@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.exe
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.deps.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.runtimeconfig.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\bin\Debug\netcoreapp3.1\Zad12.pdb
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\obj\Debug\netcoreapp3.1\Zad12.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\obj\Debug\netcoreapp3.1\Zad12.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\obj\Debug\netcoreapp3.1\Zad12.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\obj\Debug\netcoreapp3.1\Zad12.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad12\Zad12\obj\Debug\netcoreapp3.1\Zad12.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.exe
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.deps.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.runtimeconfig.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\bin\Debug\netcoreapp3.1\Zad5.pdb
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\obj\Debug\netcoreapp3.1\Zad5.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\obj\Debug\netcoreapp3.1\Zad5.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\obj\Debug\netcoreapp3.1\Zad5.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\obj\Debug\netcoreapp3.1\Zad5.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\Zad5\Zad5\obj\Debug\netcoreapp3.1\Zad5.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.exe
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.deps.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.runtimeconfig.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\bin\Debug\netcoreapp3.1\zad6.pdb
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\obj\Debug\netcoreapp3.1\zad6.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\obj\Debug\netcoreapp3.1\zad6.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\obj\Debug\netcoreapp3.1\zad6.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\obj\Debug\netcoreapp3.1\zad6.dll
+C:\Users\Mateusz\Desktop\studia\zadaniepraca\zad6\zad6\obj\Debug\netcoreapp3.1\zad6.pdb
